@@ -1,0 +1,283 @@
+{
+  "meta": {
+    "title": "Arslan Zafar — Softwareentwickler | C#/.NET · Python · KI"
+  },
+  "nav": {
+    "home": "Start",
+    "about": "Über mich",
+    "experience": "Erfahrung",
+    "projects": "Projekte",
+    "skills": "Kenntnisse",
+    "education": "Ausbildung",
+    "certifications": "Zertifikate",
+    "blog": "Artikel",
+    "contact": "Kontakt"
+  },
+  "a11y": {
+    "skipToContent": "Zum Inhalt springen",
+    "mainNavigation": "Hauptnavigation",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "themeMenu": "Farbschema wählen",
+    "themeDark": "Dunkel",
+    "themeLight": "Hell",
+    "themeSystem": "System",
+    "languageMenu": "Sprache wählen",
+    "backToTop": "Zurück nach oben",
+    "externalLink": "Öffnet in neuem Tab"
+  },
+  "hero": {
+    "greeting": "Hallo, ich bin",
+    "roles": [
+      "Softwareentwickler",
+      "KI- & Computer-Vision-Engineer",
+      ".NET- & Python-Entwickler",
+      "Full-Stack-Entwickler"
+    ],
+    "description": "Ich entwickle industrielle Software und KI-gestützte Lösungen — von robusten .NET-Backends über Computer-Vision-Systeme mit über 98 % Erkennungsgenauigkeit bis zu modernen Web-Anwendungen.",
+    "available": "Offen für neue Chancen",
+    "downloadResume": "Lebenslauf herunterladen",
+    "contactMe": "Kontakt aufnehmen",
+    "githubProfile": "GitHub-Profil",
+    "linkedinProfile": "LinkedIn-Profil",
+    "scrollDown": "Nach unten scrollen"
+  },
+  "about": {
+    "eyebrow": "Über mich",
+    "title": "Software Engineering mit industriellem Fokus",
+    "paragraphs": [
+      "Ich bin Softwareentwickler mit einem Master of Engineering in Software Engineering for Industrial Applications (Hochschule Hof, 2025) und Schwerpunkt auf C#/.NET und Python — ergänzt durch fundierte Praxis in Java mit Spring Boot sowie Expertise in Künstlicher Intelligenz und Computer Vision.",
+      "Bei der F.EE IndustrieAutomation GmbH & Co. KG habe ich ein KI-System entwickelt, das Anschlussklemmen auf digitalen Schaltplänen mit über 98 % Genauigkeit erkennt und manuelle Prüfaufwände um 65 % reduziert. Dabei habe ich ein tiefes Verständnis für professionelle Standards und kollaborative Entwicklung in einem deutschen IT-Unternehmen aufgebaut.",
+      "Zuvor habe ich vier Jahre bei Services Ground Pvt. Ltd. gearbeitet — zunächst als Softwareentwickler für Backend-Services und REST-APIs mit Java und Spring Boot, später als Projektmanager mit Verantwortung für ein achtköpfiges, interdisziplinäres Team in agilen Umgebungen."
+    ],
+    "stats": [
+      { "value": "5+", "label": "Jahre Berufserfahrung" },
+      { "value": "98 %", "label": "KI-Erkennungsgenauigkeit" },
+      { "value": "8", "label": "Teammitglieder geführt" },
+      { "value": "2025", "label": "M.Eng.-Abschluss" }
+    ],
+    "factsTitle": "Auf einen Blick",
+    "facts": {
+      "location": "Standort",
+      "locationValue": "Bad Neustadt a. d. Saale, Bayern",
+      "degree": "Abschluss",
+      "degreeValue": "M.Eng. Software Engineering",
+      "focus": "Schwerpunkt",
+      "focusValue": "C#/.NET · Python · KI & Computer Vision",
+      "languages": "Sprachen",
+      "languagesValue": "Deutsch (B1) · Englisch (verhandlungssicher) · Urdu & Punjabi (Muttersprache)"
+    },
+    "goalsTitle": "Karriereziele",
+    "goals": "Ich möchte KI-gestützte Systeme für die Industrie bauen, die messbaren Mehrwert liefern — und mich dabei fachlich in Richtung Softwarearchitektur und angewandtes Machine Learning weiterentwickeln.",
+    "interestsTitle": "Interessen",
+    "interests": ["Neue Programmiersprachen", "Kochen", "Basketball", "Tischtennis"]
+  },
+  "experience": {
+    "eyebrow": "Werdegang",
+    "title": "Berufserfahrung",
+    "subtitle": "Von Full-Stack-Entwicklung über agile Teamführung bis zu KI-Systemen für die Industrieautomation.",
+    "present": "Heute",
+    "items": {
+      "feeThesis": {
+        "role": "Masterand — KI & Computer Vision",
+        "location": "Deutschland",
+        "summary": "Masterarbeit: Erkennung und Hervorhebung von Anschlussklemmen auf digitalen Schaltplänen mittels Künstlicher Intelligenz.",
+        "highlights": [
+          "Erkennungsgenauigkeit von über 98 % durch Training eines YOLOv5-CNN-Modells erreicht",
+          "Manuelle Prüfaufwände durch ein KI-gestütztes RPA-System um 65 % reduziert",
+          "Klemmendaten durch OCR-Integration mit 95 % Trefferquote validiert",
+          "Trainingsdatensatz aus 1.200 Bildern im YOLO-Format aufgebaut und annotiert",
+          "KI-Ergebnisse über ein Blazor-Dashboard und Python.NET in die C#-Anwendung integriert",
+          "Produktivreife mit 85 % Testabdeckung durch Unit-, Integrations- und Lasttests gesichert"
+        ]
+      },
+      "feeIntern": {
+        "role": "Praktikant Softwareentwicklung",
+        "location": "Deutschland",
+        "summary": "Praxissemester im ERP-Umfeld: Backend-Module, REST-Schnittstellen und Qualitätssicherung.",
+        "highlights": [
+          "ERP-Lagermodule in C#/.NET mit Service-Layer und DTOs entwickelt",
+          "ERP-Datenzugriff durch optimierte LINQ-Abfragen um 40 % beschleunigt",
+          "REST-Endpunkte in ASP.NET Core mit asynchronen Handlern bereitgestellt",
+          "Chat- und Feedback-Modul mit Entity Framework Core und SQLite umgesetzt",
+          "Release-Fehler durch Integrationstests mit xUnit und Postman gesenkt"
+        ]
+      },
+      "sgPm": {
+        "role": "Projektmanager",
+        "location": "Sahiwal, Pakistan",
+        "summary": "Führung eines interdisziplinären Entwicklungsteams und Verantwortung für Delivery, Qualität und Infrastruktur.",
+        "highlights": [
+          "Interdisziplinäres Team aus 8 Mitgliedern mit Scrum und Kanban geführt",
+          "Fehlerdichte über Jira-Dashboards und kontinuierliche Prozessoptimierung um 30 % gesenkt",
+          "Release-Zyklen durch CI/CD mit Jenkins, GitLab CI/CD und Docker um 35 % verkürzt",
+          "Skalierbarkeit und Verfügbarkeit durch Cloud-Deployments auf AWS und Azure verbessert",
+          "Codequalität durch verbindliche Pull-Request-Workflows und Code-Reviews gesichert"
+        ]
+      },
+      "sgDev": {
+        "role": "Softwareentwickler",
+        "location": "Sahiwal, Pakistan",
+        "summary": "Full-Stack-Entwicklung für eine Stock-Trading-Plattform und Kundenprojekte.",
+        "highlights": [
+          "Backend einer Stock-Trading-Plattform (richtv.io) mit Java und Spring Boot entwickelt",
+          "Wiederverwendbare REST-APIs für anwendungsübergreifenden Datenaustausch aufgebaut",
+          "Responsive Frontend-Oberflächen mit ReactJS und Bootstrap umgesetzt",
+          "Kundenwebsites mit PHP und WordPress ausgeliefert"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "eyebrow": "Ausgewählte Arbeiten",
+    "title": "Projekte",
+    "subtitle": "Eine Auswahl aus KI, IoT, Cloud und Full-Stack-Entwicklung.",
+    "filterAll": "Alle",
+    "filters": {
+      "ai": "KI & Computer Vision",
+      "iot": "IoT",
+      "web": "Web & Full-Stack",
+      "cloud": "Cloud"
+    },
+    "viewCode": "Code",
+    "viewLive": "Live-Demo",
+    "proprietary": "Firmenprojekt",
+    "achievementLabel": "Highlight",
+    "items": {
+      "terminalAi": {
+        "title": "KI-Klemmenerkennung für Schaltpläne",
+        "description": "Deep-Learning-System, das Anschlussklemmen auf digitalen Schaltplänen automatisch erkennt, hervorhebt und per OCR validiert — integriert in eine industrielle C#-Anwendung mit Blazor-Dashboard.",
+        "achievement": "98 % Erkennungsgenauigkeit, 65 % weniger manuelle Prüfaufwände"
+      },
+      "greenhouse": {
+        "title": "Smart Greenhouse Farming System",
+        "description": "IoT-basiertes Gewächshaus-System mit M5Stack und MicroPython zur Echtzeitüberwachung von Umweltbedingungen. Sensoren für Bodenfeuchte, Klima und Licht steuern eine automatische Bewässerung; ein PHP-Dashboard visualisiert alle Daten.",
+        "achievement": "Automatisierte Bewässerung über Sensor-Schwellenwerte"
+      },
+      "wanderWave": {
+        "title": "Wander Wave Tourism",
+        "description": "Cloudbasiertes Tourismus-Management-System mit PHP (Yii2) auf AWS. Benutzerauthentifizierung und Account-Management für personalisierte Reiserouten sowie ownCloud-Integration zur sicheren Speicherung nutzergenerierter Inhalte.",
+        "achievement": "Skalierbare und sichere Reiseplanungsplattform auf AWS"
+      },
+      "proShop": {
+        "title": "Pro-Shop E-Commerce",
+        "description": "Full-Stack-E-Commerce-Anwendung mit dem MERN-Stack: RESTful APIs für Produktverwaltung, Benutzerauthentifizierung und Bestellabwicklung mit PayPal-Integration sowie rollenbasierter Zugriffskontrolle für Admin- und Kundenbereiche.",
+        "achievement": "Kompletter Bestellprozess inkl. PayPal-Zahlung"
+      },
+      "richtv": {
+        "title": "RichTV — Stock-Trading-Plattform",
+        "description": "Backend einer Stock-Trading-Plattform mit Java und Spring Boot: wiederverwendbare REST-APIs für den anwendungsübergreifenden Datenaustausch und responsive Frontend-Oberflächen mit ReactJS.",
+        "achievement": "Produktiv im Einsatz unter richtv.io"
+      }
+    }
+  },
+  "skills": {
+    "eyebrow": "Technologien",
+    "title": "Kenntnisse & Werkzeuge",
+    "subtitle": "Der Werkzeugkasten, mit dem ich von der Idee bis zum Produktivbetrieb arbeite.",
+    "categories": {
+      "languages": "Programmiersprachen",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "aiml": "KI & Computer Vision",
+      "cloud": "Cloud & DevOps",
+      "databases": "Datenbanken",
+      "tools": "Tools & Methoden"
+    }
+  },
+  "education": {
+    "eyebrow": "Ausbildung",
+    "title": "Akademischer Werdegang",
+    "subtitle": "Fundierte akademische Grundlage in KI, Computer Vision, Cloud Computing und verteilten Systemen.",
+    "courseworkLabel": "Schwerpunkte",
+    "items": {
+      "hof": {
+        "degree": "Master of Engineering (M.Eng.) — Software Engineering for Industrial Applications",
+        "location": "Hof, Deutschland",
+        "coursework": [
+          "Künstliche Intelligenz",
+          "Computer Vision",
+          "Fortgeschrittene Programmierung (Java)",
+          "Software Engineering",
+          "Cloud Computing (AWS)",
+          "Internet of Things",
+          "Industrie 4.0",
+          "Projektmanagement",
+          "Nicht-relationale Datenbanken"
+        ]
+      },
+      "umt": {
+        "degree": "Bachelor in Software Engineering",
+        "location": "Lahore, Pakistan",
+        "coursework": [
+          "Objektorientierte Programmierung",
+          "Datenstrukturen & Algorithmen",
+          "Softwaredesign & -architektur",
+          "Computer Vision",
+          "Data Mining",
+          "Softwarequalität & -test",
+          "Computernetzwerke"
+        ]
+      }
+    }
+  },
+  "certifications": {
+    "eyebrow": "Nachweise",
+    "title": "Zertifizierungen",
+    "items": {
+      "ccna": "Cisco Certified Network Associate (Routing & Switching)",
+      "aws": "Amazon Web Services (AWS) Cloud"
+    }
+  },
+  "blog": {
+    "eyebrow": "Schreiben",
+    "title": "Artikel",
+    "subtitle": "Gedanken zu Software Engineering, KI und dem Weg dorthin.",
+    "mediumCardTitle": "Auf Medium lesen",
+    "mediumCardText": "Ich veröffentliche Artikel über Softwareentwicklung, KI und meine Erfahrungen als Entwickler in Deutschland.",
+    "readOnMedium": "Zum Medium-Profil",
+    "readArticle": "Artikel lesen"
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Lass uns sprechen",
+    "subtitle": "Ob spannende Position, Projekt oder einfach ein Austausch — ich freue mich über deine Nachricht.",
+    "infoTitle": "Direkter Draht",
+    "emailLabel": "E-Mail",
+    "locationLabel": "Standort",
+    "locationValue": "Bad Neustadt a. d. Saale, Bayern, Deutschland",
+    "socialLabel": "Profile",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Dein Name",
+      "email": "E-Mail",
+      "emailPlaceholder": "du@beispiel.de",
+      "subject": "Betreff",
+      "subjectPlaceholder": "Worum geht es?",
+      "message": "Nachricht",
+      "messagePlaceholder": "Deine Nachricht …",
+      "submit": "Nachricht senden",
+      "sending": "Wird gesendet …",
+      "successTitle": "Nachricht gesendet!",
+      "successText": "Danke für deine Nachricht — ich melde mich so schnell wie möglich.",
+      "errorTitle": "Senden fehlgeschlagen",
+      "errorText": "Das hat leider nicht geklappt. Schreib mir gerne direkt an {{email}}.",
+      "sendAnother": "Weitere Nachricht senden",
+      "validation": {
+        "nameRequired": "Bitte gib deinen Namen an.",
+        "emailRequired": "Bitte gib deine E-Mail-Adresse an.",
+        "emailInvalid": "Bitte gib eine gültige E-Mail-Adresse an.",
+        "subjectRequired": "Bitte gib einen Betreff an.",
+        "messageRequired": "Bitte schreib eine Nachricht.",
+        "messageTooShort": "Die Nachricht sollte mindestens 10 Zeichen lang sein."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Softwareentwickler mit Fokus auf industrielle Anwendungen, KI und Computer Vision.",
+    "quickLinks": "Navigation",
+    "connect": "Profile",
+    "rights": "Alle Rechte vorbehalten.",
+    "builtWith": "Entwickelt mit React, TypeScript & Tailwind CSS"
+  }
+}

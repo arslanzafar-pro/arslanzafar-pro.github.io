@@ -1,0 +1,283 @@
+{
+  "meta": {
+    "title": "Arslan Zafar — Software Engineer | C#/.NET · Python · AI"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Skills",
+    "education": "Education",
+    "certifications": "Certifications",
+    "blog": "Articles",
+    "contact": "Contact"
+  },
+  "a11y": {
+    "skipToContent": "Skip to content",
+    "mainNavigation": "Main navigation",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "themeMenu": "Choose color theme",
+    "themeDark": "Dark",
+    "themeLight": "Light",
+    "themeSystem": "System",
+    "languageMenu": "Choose language",
+    "backToTop": "Back to top",
+    "externalLink": "Opens in a new tab"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "roles": [
+      "Software Engineer",
+      "AI & Computer Vision Engineer",
+      ".NET & Python Developer",
+      "Full-Stack Developer"
+    ],
+    "description": "I build industrial software and AI-powered solutions — from robust .NET backends and computer-vision systems with over 98% detection accuracy to modern web applications.",
+    "available": "Open to new opportunities",
+    "downloadResume": "Download resume",
+    "contactMe": "Get in touch",
+    "githubProfile": "GitHub profile",
+    "linkedinProfile": "LinkedIn profile",
+    "scrollDown": "Scroll down"
+  },
+  "about": {
+    "eyebrow": "About me",
+    "title": "Software engineering with an industrial focus",
+    "paragraphs": [
+      "I'm a software engineer holding a Master of Engineering in Software Engineering for Industrial Applications (Hof University, 2025), focused on C#/.NET and Python — complemented by solid experience in Java with Spring Boot and expertise in artificial intelligence and computer vision.",
+      "At F.EE IndustrieAutomation GmbH & Co. KG I built an AI system that detects connection terminals on digital circuit diagrams with over 98% accuracy and cut manual inspection effort by 65%. Along the way I developed a deep appreciation for professional standards and collaborative engineering inside a German IT company.",
+      "Before that, I spent four years at Services Ground Pvt. Ltd. — first as a software engineer building backend services and REST APIs with Java and Spring Boot, later as a project manager leading an interdisciplinary team of eight in agile environments."
+    ],
+    "stats": [
+      { "value": "5+", "label": "Years of experience" },
+      { "value": "98%", "label": "AI detection accuracy" },
+      { "value": "8", "label": "Team members led" },
+      { "value": "2025", "label": "M.Eng. graduation" }
+    ],
+    "factsTitle": "At a glance",
+    "facts": {
+      "location": "Location",
+      "locationValue": "Bad Neustadt a. d. Saale, Bavaria, Germany",
+      "degree": "Degree",
+      "degreeValue": "M.Eng. Software Engineering",
+      "focus": "Focus",
+      "focusValue": "C#/.NET · Python · AI & Computer Vision",
+      "languages": "Languages",
+      "languagesValue": "German (B1) · English (fluent) · Urdu & Punjabi (native)"
+    },
+    "goalsTitle": "Career goals",
+    "goals": "I want to build AI-powered systems for industry that deliver measurable value — while growing professionally toward software architecture and applied machine learning.",
+    "interestsTitle": "Interests",
+    "interests": ["New programming languages", "Cooking", "Basketball", "Table tennis"]
+  },
+  "experience": {
+    "eyebrow": "Career",
+    "title": "Work experience",
+    "subtitle": "From full-stack development and agile team leadership to AI systems for industrial automation.",
+    "present": "Present",
+    "items": {
+      "feeThesis": {
+        "role": "Master's Thesis — AI & Computer Vision",
+        "location": "Germany",
+        "summary": "Thesis: detection and highlighting of connection terminals on digital circuit diagrams using artificial intelligence.",
+        "highlights": [
+          "Achieved over 98% detection accuracy by training a YOLOv5 CNN model",
+          "Reduced manual inspection effort by 65% with an AI-powered RPA system",
+          "Validated terminal data via OCR integration with a 95% hit rate",
+          "Built and annotated a training dataset of 1,200 images in YOLO format",
+          "Integrated AI results into the C# application via a Blazor dashboard and Python.NET",
+          "Ensured production readiness with 85% test coverage across unit, integration and load tests"
+        ]
+      },
+      "feeIntern": {
+        "role": "Software Engineering Intern",
+        "location": "Germany",
+        "summary": "Internship semester in the ERP domain: backend modules, REST interfaces and quality assurance.",
+        "highlights": [
+          "Developed ERP warehouse modules in C#/.NET with a service layer and DTOs",
+          "Sped up ERP data access by 40% through optimized LINQ queries",
+          "Delivered REST endpoints in ASP.NET Core with asynchronous handlers",
+          "Implemented a chat and feedback module with Entity Framework Core and SQLite",
+          "Reduced release defects through integration testing with xUnit and Postman"
+        ]
+      },
+      "sgPm": {
+        "role": "Project Manager",
+        "location": "Sahiwal, Pakistan",
+        "summary": "Led an interdisciplinary development team with responsibility for delivery, quality and infrastructure.",
+        "highlights": [
+          "Led an interdisciplinary team of 8 using Scrum and Kanban",
+          "Cut defect density by 30% via Jira dashboards and continuous process improvement",
+          "Shortened release cycles by 35% with CI/CD using Jenkins, GitLab CI/CD and Docker",
+          "Improved scalability and availability through cloud deployments on AWS and Azure",
+          "Safeguarded code quality with mandatory pull-request workflows and code reviews"
+        ]
+      },
+      "sgDev": {
+        "role": "Software Engineer",
+        "location": "Sahiwal, Pakistan",
+        "summary": "Full-stack development for a stock-trading platform and client projects.",
+        "highlights": [
+          "Built the backend of a stock-trading platform (richtv.io) with Java and Spring Boot",
+          "Created reusable REST APIs for cross-application data exchange",
+          "Implemented responsive frontend interfaces with ReactJS and Bootstrap",
+          "Delivered client websites with PHP and WordPress"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "eyebrow": "Selected work",
+    "title": "Projects",
+    "subtitle": "A selection across AI, IoT, cloud and full-stack development.",
+    "filterAll": "All",
+    "filters": {
+      "ai": "AI & Computer Vision",
+      "iot": "IoT",
+      "web": "Web & Full-Stack",
+      "cloud": "Cloud"
+    },
+    "viewCode": "Code",
+    "viewLive": "Live demo",
+    "proprietary": "Company project",
+    "achievementLabel": "Highlight",
+    "items": {
+      "terminalAi": {
+        "title": "AI Terminal Detection for Circuit Diagrams",
+        "description": "Deep-learning system that automatically detects and highlights connection terminals on digital circuit diagrams and validates them via OCR — integrated into an industrial C# application with a Blazor dashboard.",
+        "achievement": "98% detection accuracy, 65% less manual inspection effort"
+      },
+      "greenhouse": {
+        "title": "Smart Greenhouse Farming System",
+        "description": "IoT-based greenhouse system built with M5Stack and MicroPython for real-time monitoring of environmental conditions. Soil-moisture, climate and light sensors drive automated irrigation; a PHP dashboard visualizes all data.",
+        "achievement": "Automated irrigation driven by sensor thresholds"
+      },
+      "wanderWave": {
+        "title": "Wander Wave Tourism",
+        "description": "Cloud-based tourism management system built with PHP (Yii2) and deployed on AWS. User authentication and account management for personalized itineraries, plus ownCloud integration for secure storage of user-generated content.",
+        "achievement": "Scalable, secure travel-planning platform on AWS"
+      },
+      "proShop": {
+        "title": "Pro-Shop E-Commerce",
+        "description": "Full-stack e-commerce application built on the MERN stack: RESTful APIs for product management, user authentication and order processing with PayPal integration, plus role-based access control for admin and customer areas.",
+        "achievement": "Complete checkout flow including PayPal payments"
+      },
+      "richtv": {
+        "title": "RichTV — Stock-Trading Platform",
+        "description": "Backend of a stock-trading platform built with Java and Spring Boot: reusable REST APIs for cross-application data exchange and responsive frontend interfaces built with ReactJS.",
+        "achievement": "Running in production at richtv.io"
+      }
+    }
+  },
+  "skills": {
+    "eyebrow": "Technologies",
+    "title": "Skills & tools",
+    "subtitle": "The toolbox I use to take ideas from concept to production.",
+    "categories": {
+      "languages": "Programming Languages",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "aiml": "AI & Computer Vision",
+      "cloud": "Cloud & DevOps",
+      "databases": "Databases",
+      "tools": "Tools & Methods"
+    }
+  },
+  "education": {
+    "eyebrow": "Education",
+    "title": "Academic background",
+    "subtitle": "A solid academic foundation in AI, computer vision, cloud computing and distributed systems.",
+    "courseworkLabel": "Key coursework",
+    "items": {
+      "hof": {
+        "degree": "Master of Engineering (M.Eng.) — Software Engineering for Industrial Applications",
+        "location": "Hof, Germany",
+        "coursework": [
+          "Artificial Intelligence",
+          "Computer Vision",
+          "Advanced Programming (Java)",
+          "Software Engineering",
+          "Cloud Computing (AWS)",
+          "Internet of Things",
+          "Industry 4.0",
+          "Project Management",
+          "Non-relational Databases"
+        ]
+      },
+      "umt": {
+        "degree": "Bachelor of Science in Software Engineering",
+        "location": "Lahore, Pakistan",
+        "coursework": [
+          "Object-Oriented Programming",
+          "Data Structures & Algorithms",
+          "Software Design & Architecture",
+          "Computer Vision",
+          "Data Mining",
+          "Software Quality & Testing",
+          "Computer Networks"
+        ]
+      }
+    }
+  },
+  "certifications": {
+    "eyebrow": "Credentials",
+    "title": "Certifications",
+    "items": {
+      "ccna": "Cisco Certified Network Associate (Routing & Switching)",
+      "aws": "Amazon Web Services (AWS) Cloud"
+    }
+  },
+  "blog": {
+    "eyebrow": "Writing",
+    "title": "Articles",
+    "subtitle": "Thoughts on software engineering, AI, and the journey there.",
+    "mediumCardTitle": "Read on Medium",
+    "mediumCardText": "I write about software development, AI, and my experience as an engineer in Germany.",
+    "readOnMedium": "Visit Medium profile",
+    "readArticle": "Read article"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's talk",
+    "subtitle": "Whether it's an exciting role, a project, or just a chat — I'd love to hear from you.",
+    "infoTitle": "Reach me directly",
+    "emailLabel": "Email",
+    "locationLabel": "Location",
+    "locationValue": "Bad Neustadt a. d. Saale, Bavaria, Germany",
+    "socialLabel": "Profiles",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "you@example.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "What is it about?",
+      "message": "Message",
+      "messagePlaceholder": "Your message …",
+      "submit": "Send message",
+      "sending": "Sending …",
+      "successTitle": "Message sent!",
+      "successText": "Thanks for reaching out — I'll get back to you as soon as possible.",
+      "errorTitle": "Sending failed",
+      "errorText": "That didn't work, unfortunately. Feel free to email me directly at {{email}}.",
+      "sendAnother": "Send another message",
+      "validation": {
+        "nameRequired": "Please enter your name.",
+        "emailRequired": "Please enter your email address.",
+        "emailInvalid": "Please enter a valid email address.",
+        "subjectRequired": "Please enter a subject.",
+        "messageRequired": "Please write a message.",
+        "messageTooShort": "The message should be at least 10 characters long."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Software engineer focused on industrial applications, AI and computer vision.",
+    "quickLinks": "Navigation",
+    "connect": "Profiles",
+    "rights": "All rights reserved.",
+    "builtWith": "Built with React, TypeScript & Tailwind CSS"
+  }
+}
