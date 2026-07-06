@@ -31,3 +31,7 @@ Thumbs.db
 
 # Claude Code session data
 .claude/
+
+#MD Files
+CUSTOMIZATION.md^
+README_old.md

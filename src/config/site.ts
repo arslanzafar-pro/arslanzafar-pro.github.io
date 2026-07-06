@@ -94,7 +94,7 @@ export const siteConfig = {
    * TODO: create a free form at https://formspree.io and replace YOUR_FORM_ID.
    * Until then, submissions fail gracefully and visitors see the direct e-mail.
    */
-  formspreeEndpoint: 'https://formspree.io/f/YOUR_FORM_ID',
+  formspreeEndpoint: 'https://formspree.io/f/xaqgvaar',
 
   /** Page sections, in render order */
   sections: [
@@ -189,7 +189,7 @@ export const siteConfig = {
       id: 'terminalAi',
       tags: ['ai'],
       technologies: ['Python', 'YOLOv5', 'TensorFlow', 'OpenCV', 'OCR', 'C#', 'Blazor'],
-      github: null,
+      github: 'https://github.com/arslanzafar-pro/Detecting-And-Highlighting-Terminals-On-Digital-Templates-Using-Artificial-Intelligence',
       live: null,
       image: null,
       proprietary: true,
@@ -199,7 +199,7 @@ export const siteConfig = {
       tags: ['iot'],
       technologies: ['M5Stack', 'MicroPython', 'UiFlow', 'PHP', 'MySQL'],
       // TODO: replace with the real repository URL
-      github: 'https://github.com/arslanzafar-pro/smart-greenhouse',
+      github: 'https://github.com/arslanzafar-pro/Smart-Greenhouse-Farming-System',
       live: null,
       image: null,
       proprietary: false,
@@ -209,7 +209,7 @@ export const siteConfig = {
       tags: ['web', 'cloud'],
       technologies: ['PHP', 'Yii2', 'AWS', 'ownCloud', 'MySQL'],
       // TODO: replace with the real repository URL
-      github: 'https://github.com/arslanzafar-pro/wander-wave',
+      github: 'https://github.com/arslanzafar-pro/WanderWave-Tourism-with-ownCloud-and-Yii2-integration',
       live: null,
       image: null,
       proprietary: false,
@@ -219,7 +219,7 @@ export const siteConfig = {
       tags: ['web'],
       technologies: ['MongoDB', 'Express.js', 'React', 'Node.js', 'PayPal API'],
       // TODO: replace with the real repository URL
-      github: 'https://github.com/arslanzafar-pro/pro-shop',
+      github: 'https://github.com/arslanzafar-pro/Pro-Shop',
       live: null,
       image: null,
       proprietary: false,

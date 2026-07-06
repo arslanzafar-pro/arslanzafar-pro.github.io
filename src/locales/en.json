@@ -63,7 +63,7 @@
       "degree": "Degree",
       "degreeValue": "M.Eng. Software Engineering",
       "focus": "Focus",
-      "focusValue": "C#/.NET · Python · AI & Computer Vision",
+      "focusValue": "AI & Computer Vision · JAVA, C#/.NET · Python",
       "languages": "Languages",
       "languagesValue": "German (B1) · English (fluent) · Urdu & Punjabi (native)"
     },
@@ -79,9 +79,9 @@
     "present": "Present",
     "items": {
       "feeThesis": {
-        "role": "Master's Thesis — AI & Computer Vision",
+        "role": "AI Engineer",
         "location": "Germany",
-        "summary": "Thesis: detection and highlighting of connection terminals on digital circuit diagrams using artificial intelligence.",
+        "summary": "Thesis: Detecting and Highlighting Terminals on Digital-Templates using Artificial Intelligence.",
         "highlights": [
           "Achieved over 98% detection accuracy by training a YOLOv5 CNN model",
           "Reduced manual inspection effort by 65% with an AI-powered RPA system",
@@ -145,8 +145,8 @@
     "achievementLabel": "Highlight",
     "items": {
       "terminalAi": {
-        "title": "AI Terminal Detection for Circuit Diagrams",
-        "description": "Deep-learning system that automatically detects and highlights connection terminals on digital circuit diagrams and validates them via OCR — integrated into an industrial C# application with a Blazor dashboard.",
+        "title": "AI Terminal Detection for Digital Templates",
+        "description": "Deep-learning system that automatically detects and highlights connection terminals on digital circuit diagrams and validates them via OCR, integrated into an industrial C# application with a Blazor dashboard.",
         "achievement": "98% detection accuracy, 65% less manual inspection effort"
       },
       "greenhouse": {
